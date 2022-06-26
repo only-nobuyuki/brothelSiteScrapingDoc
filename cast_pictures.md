@@ -1,0 +1,13 @@
+|カラム名|論理名|
+|:----|:----|
+|id|ID|
+|picture_1|画像1|
+|picture_2|画像2|
+|picture_3|画像3|
+|picture_4|画像4|
+|picture_5|画像5|
+|picture_6|画像6|
+|picture_7|画像7|
+|picture_8|画像8|
+|picture_9|画像9|
+|picture_10|画像10|
